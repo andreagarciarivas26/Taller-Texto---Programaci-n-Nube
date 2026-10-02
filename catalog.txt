@@ -1,0 +1,6 @@
+name|category|price
+antenna|electronics|40
+android-case|electronics|12
+banana|food|2
+anvil|tools|80
+apron|clothes|15
